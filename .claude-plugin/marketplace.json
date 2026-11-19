@@ -1,0 +1,12 @@
+{
+  "name": "smalltalk-best-practice-patterns",
+  "owner": { "name": "aberlin-stride" },
+  "plugins": [
+    {
+      "name": "smalltalk-best-practice-patterns",
+      "source": "./",
+      "description": "Write and refactor code in the style of Kent Beck's Smalltalk Best Practice Patterns, in any language.",
+      "version": "1.0.0"
+    }
+  ]
+}

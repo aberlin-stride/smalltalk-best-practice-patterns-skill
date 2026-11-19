@@ -1,0 +1,7 @@
+{
+  "name": "smalltalk-best-practice-patterns",
+  "description": "Write and refactor code in the style of Kent Beck's Smalltalk Best Practice Patterns, in any language.",
+  "version": "1.0.0",
+  "author": { "name": "aberlin-stride" },
+  "keywords": ["refactoring", "clean-code", "smalltalk", "kent-beck", "patterns"]
+}
